@@ -1,7 +1,7 @@
 [project]
 name = "boot-dev-asteroids"
 version = "0.1.0"
-description = "Add your description here"
+description = "asteroids project course from boot.dev"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
